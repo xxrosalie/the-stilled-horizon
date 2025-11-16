@@ -44,6 +44,20 @@ Game 4 is the resolution. You made it back to the lab after escaping the bad guy
 - Inky
 - GitHub
 
+## Challenges
+- Creating art fast enough to fit the time constraint
+- Debugging code
+- Finding a story that fit all 4 game types
+- Not knowing exactly how tilemaps worked at first
+- Digital art limitations due to old iPad
+
+## Accomplishments
+- Created 4 games I am proud of
+- Worked on a great team with good communication and task division
+- Noticed goed team dynamics having artists and coders work together
+- Learned more about tilemaps, Godot, and animations
+- Practiced my digital art skills
+
 
 
 
