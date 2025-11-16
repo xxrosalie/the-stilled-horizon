@@ -27,7 +27,7 @@ Game 2 is the hidden object game. At the end of game 1, you joined the good side
 ## Game 3
 Game 3 comes right after you take back the parts that the bad guy stole. You are now trying to escape his house since he comes home at the end of the 5 minutes. This is the pinball game where you are trying to escape and dodge the bad guy's following you.  You can get powerups throughout the game and there is a "timer" at the bottom of the screen showing you how far you are from escaping. If you reach it to the end before the bad guy's catch you, you win.  
 
-<img width="1273" height="705" alt="image" src="https://github.com/user-attachments/assets/0275a212-e505-40bd-9da5-19bd6f8646f2" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0275a212-e505-40bd-9da5-19bd6f8646f2" />
 
 ## Game 4
 Game 4 is the resolution. You made it back to the lab after escaping the bad guys and now you have the parts of the time machine. It is now time to fix the time machine and unfreeze time.   
