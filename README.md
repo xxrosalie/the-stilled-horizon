@@ -20,9 +20,9 @@ Game 1 is where the story starts. It is a narrative game made on Inky. It sets t
 ## Game 2
 Game 2 is the hidden object game. At the end of game 1, you joined the good side and decide to go to the bad guy's house to steal back parts of the time machine that he took. So, in this hidden object game, we break into the bad guy's house and find the parts that he stole. You have 5 minutes and 3 rooms to look through. There are also some puzzles hidden within.  
 
-<img width="1272" height="705" alt="image" src="https://github.com/user-attachments/assets/c4191be0-1ead-4e04-a061-52a3347c6f9b" />
-<img width="1275" height="711" alt="image" src="https://github.com/user-attachments/assets/2d67a49f-4781-46a1-95e7-530549bfaf9f" />
-<img width="1272" height="713" alt="image" src="https://github.com/user-attachments/assets/2877d186-4b62-414e-82ef-1e983c4b8406" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/c4191be0-1ead-4e04-a061-52a3347c6f9b" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/2d67a49f-4781-46a1-95e7-530549bfaf9f" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/2877d186-4b62-414e-82ef-1e983c4b8406" />
 
 ## Game 3
 Game 3 comes right after you take back the parts that the bad guy stole. You are now trying to escape his house since he comes home at the end of the 5 minutes. This is the pinball game where you are trying to escape and dodge the bad guy's following you.  You can get powerups throughout the game and there is a "timer" at the bottom of the screen showing you how far you are from escaping. If you reach it to the end before the bad guy's catch you, you win.  
@@ -32,11 +32,11 @@ Game 3 comes right after you take back the parts that the bad guy stole. You are
 ## Game 4
 Game 4 is the resolution. You made it back to the lab after escaping the bad guys and now you have the parts of the time machine. It is now time to fix the time machine and unfreeze time.   
 
-<img width="1272" height="713" alt="image" src="https://github.com/user-attachments/assets/bdb457a7-db45-41d1-aef3-f8c48b283f8f" />
-<img width="1263" height="627" alt="image" src="https://github.com/user-attachments/assets/881a1086-96e5-406f-ad0c-70d86b5df63d" />
-<img width="1267" height="687" alt="image" src="https://github.com/user-attachments/assets/0af8b1f9-75a6-4c0d-afc5-ab8426f72521" />
-<img width="1261" height="701" alt="image" src="https://github.com/user-attachments/assets/c6d4804a-7cd0-45e5-a805-b667878a134e" />
-<img width="1265" height="717" alt="image" src="https://github.com/user-attachments/assets/716b9af5-bbda-4619-b775-bd142818c487" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/bdb457a7-db45-41d1-aef3-f8c48b283f8f" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/881a1086-96e5-406f-ad0c-70d86b5df63d" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0af8b1f9-75a6-4c0d-afc5-ab8426f72521" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/c6d4804a-7cd0-45e5-a805-b667878a134e" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/716b9af5-bbda-4619-b775-bd142818c487" />
 
 ## Technologies Used
 - Sketchbook on my IPad
