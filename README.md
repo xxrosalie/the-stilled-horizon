@@ -1,7 +1,7 @@
 # The Stilled Horizon
 The Stilled Horizon is a set of 4 video games created by Rosalie Rutten, Aaron Green, and Jason Nguyen. The games all play in the same narrative. Game 1 starts the story and game 4 ends it. Game 1 is a narrative game, game 2 is a hidden object game, game 3 is a pinball game, and game 4 is a point-and-click RPG. With the limitations of what type of game each game had to be, we had to make sure the narrative fit within all these games.    
 
-## Credits:  
+## Credits 
 - Code: Jason Nguyen and Aaron Green  
 - Art: Rosalie Rutten
     I designed and drew all of the art you see in any of the games. I drew scenes for game 1, scenes, objects, and UIs for game 2, scenes, characters, objects, and     UI's for game 3, and tilemaps, characters, and objects for game 4.
