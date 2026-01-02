@@ -3,7 +3,7 @@ The Stilled Horizon is a set of 4 video games created by Rosalie Rutten, Aaron G
 
 ## Credits 
 - Code: Jason Nguyen and Aaron Green  
-- Art: Rosalie Rutten
+- Art: Rosalie Rutten       
     I designed and drew all of the art you see in any of the games. I drew scenes for game 1, scenes, objects, and UIs for game 2, scenes, characters, objects, and     UI's for game 3, and tilemaps, characters, and objects for game 4.
 
 ## The Story
